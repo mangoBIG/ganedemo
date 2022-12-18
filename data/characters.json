@@ -1,0 +1,33 @@
+{
+  "default":{
+    "poses":{
+    },
+    "name":"Narrator"
+  },
+
+  "alice":{
+    "poses":{
+      "default":"img/1Donut.png",
+      "happy":"img/1Donut.png"
+    },
+    "name":"Alice"
+  },
+
+  "bobby":{
+    "poses":{
+      "default":"img/2Ako.png",
+      "happy":"img/1Ako.png",
+      "haha":"img/Ako7.png"
+    },
+    "name":"Bobby"
+  },
+  "pike":{
+    "poses":{
+      "default":"img/2Pike.png",
+      "happy":"img/",
+      "haha":"img/"
+    },
+    "name":"pike"
+  
+}
+}

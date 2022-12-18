@@ -1,0 +1,14 @@
+{
+	"street" : {
+		"name":"The street",
+    	"image":"img/st.png"
+		
+    },
+	"dead" : {
+		"name":"The dead ",
+		"image":"img/deadse.jpg"
+}
+}
+	
+
+	
